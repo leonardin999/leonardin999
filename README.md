@@ -31,7 +31,7 @@ I am a RPA Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - :zap: In my free time, I solve autoamtion process problems on Upworks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/h%C6%B0ng-b%C3%ACnh-008b02163/))
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-leonard-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/h%C6%B0ng-b%C3%ACnh-008b02163/)
 
 ---
 
